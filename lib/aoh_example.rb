@@ -19,7 +19,7 @@ def assembled_aoh
 end
 
 def literal_aoh
-  new_array=[
+  new_array2=[
     { name:  "Don Gately", occupation: "Live-in Staff" },
     { name:  "Joelle van Dyne", occupation: "Radio Personality" },
     { name:  "Pat Monteseian", occupation: "Staff" },
